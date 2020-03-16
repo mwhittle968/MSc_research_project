@@ -1,4 +1,4 @@
-#  Winter swarming of Gymnometriocnemus brunalis and other Chironomidae in North Somerset, UK  #
+#  Winter swarming of Gymnometriocnemus brumalis and other Chironomidae in North Somerset, UK  #
 #  Mathilda Whittle, School of Biological Sciences, University of Reading  #
 
 # Install packages
